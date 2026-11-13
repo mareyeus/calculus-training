@@ -1,0 +1,7 @@
+Backflip Dive 3D browser build
+
+Source directory: https://github.com/tw31122007/HTML-Games-V2/tree/main/backflip-dive-3d
+This Unity/WebAssembly build is bundled locally for the LFIB GAMEHUB trial.
+Ad-loader script references were removed from index.html.
+
+The source repository does not provide an evident license in this game folder. These files are included for the user's private testing request; obtain permission from the relevant rights holder before public redistribution or deployment.
