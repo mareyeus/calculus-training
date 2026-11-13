@@ -1,0 +1,4 @@
+Papa's Hot Doggeria SWF sourced from:
+https://github.com/tw31122007/HTML-Games-V2/tree/main/papas-hot-doggeria
+
+The SWF source folder did not include a license file. Waflash player files are from https://github.com/isteiger/waflash and its MIT license is included as Waflash-LICENSE. The game page and layout are local; the player JavaScript, data, and WebAssembly assets are bundled locally.
