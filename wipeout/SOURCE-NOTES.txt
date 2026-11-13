@@ -1,0 +1,9 @@
+wipEout Rewrite browser build
+
+The local WebAssembly build (minimal version) was downloaded from the creator's browser page:
+https://phoboslab.org/wipegame/
+
+Project source and README:
+https://github.com/phoboslab/wipeout-rewrite
+
+The upstream README says the source has no license and warns against commercial use, including sites with advertising. This hub is being used privately without ads, as the user stated. These notes preserve the upstream status; they are not a license.
