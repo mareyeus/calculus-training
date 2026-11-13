@@ -1,0 +1,5 @@
+Geometry Dash game-folder build
+
+Source: https://github.com/tw31122007/HTML-Games-V2/tree/main/geometrydash
+The game page loads the local gdash.js bundle (about 13.3 MB). Ad, analytics, and chat widget scripts were removed from index.html.
+No license file is included in the game folder; check rights before publicly redistributing the files.
