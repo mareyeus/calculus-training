@@ -1,0 +1,4 @@
+Skyblock game files sourced from:
+https://github.com/tw31122007/HTML-Games-V2/tree/main/skyblock
+
+The source HTML identifies Construct 3 and Loregret. The Scorenga ad-platform bridge was removed for this local hub copy. No license file was present in the source folder.
